@@ -4,12 +4,12 @@
 <div align="center">
  <h1>NFT preview card component</h1>
  <h3>
-    <a href="https://mohamedaridah.github.io/frontendmentor_nft-preview-card-component/">
+    <a href="https://radiant-taiyaki-17035e.netlify.app/">
       Live
     </a>
     <span>&nbsp;|&nbsp;</span>
     <!-- Frontend Mentor Live solution -->
-    <a href="https://www.frontendmentor.io/solutions/nft-preview-card-component-using-vanilla-css-SyYSFIjGc" title="Check My Solution on Frontend Mentor">
+    <a href="https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/hub">
       Solution
     </a>
     <span>&nbsp;|&nbsp;</span>
@@ -64,7 +64,7 @@ The designs were created to the following widths:
 ![](images/desktop-design.jpg)
 
 ### Links
-- Live Site URL: [https://silver-tartufo-22191b.netlify.app/](https://silver-tartufo-22191b.netlify.app/)
+- Live Site URL: [https://radiant-taiyaki-17035e.netlify.app/](https://radiant-taiyaki-17035e.netlify.app/)
 
 ### Built with
 
